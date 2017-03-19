@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/3/14 12:09:03。
+     1>项目“E:\大一\程序设计与基础（C语言）\练习.c\练习.c\练习.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "练习.cpp"
+         练习.cpp
+       Link:
+         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\大一\程序设计与基础（C语言）\练习.c\Debug\练习.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\大一\程序设计与基础（C语言）\练习.c\Debug\练习.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\大一\程序设计与基础（C语言）\练习.c\Debug\练习.c.lib" /MACHINE:X86 "Debug\练习.obj"
+         练习.c.vcxproj -> E:\大一\程序设计与基础（C语言）\练习.c\Debug\练习.c.exe
+     1>已完成生成项目“E:\大一\程序设计与基础（C语言）\练习.c\练习.c\练习.c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.93
