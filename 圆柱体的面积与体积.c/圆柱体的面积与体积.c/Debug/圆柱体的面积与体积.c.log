@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/3/19 10:54:42。
+     1>项目“E:\大一\程序设计与基础（C语言）\圆柱体的面积与体积.c\圆柱体的面积与体积.c\圆柱体的面积与体积.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "圆柱体的面积与体积.cpp"
+         圆柱体的面积与体积.cpp
+     1>e:\大一\程序设计与基础（c语言）\圆柱体的面积与体积.c\圆柱体的面积与体积.c\圆柱体的面积与体积.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>e:\大一\程序设计与基础（c语言）\圆柱体的面积与体积.c\圆柱体的面积与体积.c\圆柱体的面积与体积.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>e:\大一\程序设计与基础（c语言）\圆柱体的面积与体积.c\圆柱体的面积与体积.c\圆柱体的面积与体积.cpp(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\大一\程序设计与基础（c语言）\圆柱体的面积与体积.c\圆柱体的面积与体积.c\圆柱体的面积与体积.cpp(21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\大一\程序设计与基础（C语言）\圆柱体的面积与体积.c\Debug\圆柱体的面积与体积.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\大一\程序设计与基础（C语言）\圆柱体的面积与体积.c\Debug\圆柱体的面积与体积.c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\大一\程序设计与基础（C语言）\圆柱体的面积与体积.c\Debug\圆柱体的面积与体积.c.lib" /MACHINE:X86 "Debug\圆柱体的面积与体积.obj"
+         圆柱体的面积与体积.c.vcxproj -> E:\大一\程序设计与基础（C语言）\圆柱体的面积与体积.c\Debug\圆柱体的面积与体积.c.exe
+     1>已完成生成项目“E:\大一\程序设计与基础（C语言）\圆柱体的面积与体积.c\圆柱体的面积与体积.c\圆柱体的面积与体积.c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
